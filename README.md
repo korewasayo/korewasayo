@@ -3,20 +3,27 @@
 <div align="center">I write code, make music, and build random projects.</div>
 <div align="center">Enjoy looking around.</div>
 
-<div align="center"><h3>Languages :</h3></div>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,js,ts,nodejs,powershell">
-</p>
+<div align="center">
+    <h3>Languages</h3>
+    <img src="https://skillicons.dev/icons?i=java,js,ts,php,python,dart,bash">
+</div>
 
-<div align="center"><h3>Tools :</h3></div>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=discord,docker,electron,git,github,gitlab,gradle,mongodb,mysql,redis">
-</p>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=idea,visualstudio,vscode">
-</p>
+<div align="center">
+    <h3>Frameworks & Runtime</h3>
+    <img src="https://skillicons.dev/icons?i=nodejs,electron">
+</div>
 
-<div align="center"><h3>Currently learning :</h3></div>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,cs,cpp">
-</p>
+<div align="center">
+    <h3>Databases</h3>
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis">
+</div>
+
+<div align="center">
+    <h3>Tools</h3>
+    <img src="https://skillicons.dev/icons?i=git,github,docker,gradle,vscode,visualstudio,linux,discord">
+</div>
+
+<div align="center">
+    <h3>Currently Learning</h3>
+    <img src="https://skillicons.dev/icons?i=rust,vuejs">
+</div>
