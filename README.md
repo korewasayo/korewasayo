@@ -2,6 +2,7 @@
 
 <div align="center">I write code, make music, and build random projects.</div>
 <div align="center">Enjoy looking around.</div>
+[![Discord Presence](https://lanyard.cnrad.dev/api/854725764007329843?theme=dark&showDisplayName=true&bg=000000&idleMessage=weewooweewoooo)](https://discord.com/users/854725764007329843)
 
 <div align="center">
     <h3>Languages</h3>
