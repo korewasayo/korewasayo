@@ -21,7 +21,7 @@
 
 <div align="center">
     <h3>Databases</h3>
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,firebase">
 </div>
 
 <div align="center">
