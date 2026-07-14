@@ -20,7 +20,7 @@
 
 <div align="center">
     <h3>Tools</h3>
-    <img src="https://skillicons.dev/icons?i=docker,nginxgit,github,gradle,vscode,visualstudio,linux,discord">
+    <img src="https://skillicons.dev/icons?i=docker,nginx,git,github,gradle,vscode,visualstudio,linux,discord">
 </div>
 
 <div align="center">
