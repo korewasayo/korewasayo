@@ -10,7 +10,7 @@
 
 <div align="center">
     <h3>Frameworks & Runtime</h3>
-    <img src="https://skillicons.dev/icons?i=nodejs,electron">
+    <img src="https://skillicons.dev/icons?i=nodejs,laravel,electron,vuejs">
 </div>
 
 <div align="center">
@@ -20,10 +20,10 @@
 
 <div align="center">
     <h3>Tools</h3>
-    <img src="https://skillicons.dev/icons?i=git,github,docker,gradle,vscode,visualstudio,linux,discord">
+    <img src="https://skillicons.dev/icons?i=docker,nginxgit,github,gradle,vscode,visualstudio,linux,discord">
 </div>
 
 <div align="center">
     <h3>Currently Learning</h3>
-    <img src="https://skillicons.dev/icons?i=rust,vuejs">
+    <img src="https://skillicons.dev/icons?i=rust,vuejs,cs">
 </div>
